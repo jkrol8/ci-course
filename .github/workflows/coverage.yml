@@ -27,8 +27,7 @@ jobs:
         pip install coverage codecov
     - name: Run coverage
       run: |
-        coverage run -m unittest
-        coverage run --branch
+        coverage run -- branch
     - name: Run codecov
       if: success()
       env:
