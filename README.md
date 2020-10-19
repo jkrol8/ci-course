@@ -2,7 +2,7 @@
 ![Run on multiple OS](https://github.com/jkrol8/ci-course/workflows/Run%20on%20multiple%20OS/badge.svg)
 [![codecov](https://codecov.io/gh/jkrol8/ci-course/branch/main/graph/badge.svg?token=6EK5KCFRPS)](undefined)
 [![BCH compliance](https://bettercodehub.com/edge/badge/jkrol8/ci-course?branch=main)](https://bettercodehub.com/)
-![Documentation Status](https://readthedocs.org/projects/ci-course-julia/badge/?version=latest)](https://ci-course-julia.readthedocs.io/en/latest/?badge=latest)
+![Documentation Status](https://readthedocs.org/projects/ci-course-julia/badge/?version=latest)
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
